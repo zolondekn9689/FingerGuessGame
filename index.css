@@ -1,0 +1,27 @@
+button 
+{
+    border-radius: 10px;
+}
+
+#title 
+{
+	display: inline-block;
+	background-color: blueviolet;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	width: 100%;
+	color: black;
+}
+
+#body {
+				
+	text-align: center;
+	background-color: skyblue;
+	margin-top: 0px;
+	padding-top: 10px;
+	padding-bottom: 100%;
+}
+
+ul {
+    font-size: 20px;
+}
